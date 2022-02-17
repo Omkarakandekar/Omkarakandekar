@@ -3,9 +3,10 @@
 
 ## connect with me with this links :-
 
-![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]
+![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## I'm a Student at Lovely Professional University !
 
 - 🔭 Check out my web devloper course: [Become A web developer SuperHero!][course]!
