@@ -9,12 +9,13 @@
 
 ## I'm a Student at Lovely Professional University !
 
-- 🔭 Check out my web devloper course: [Become A web developer SuperHero!][course]!
+- 🔭 Check out my web devloper course: [Become A web developer SuperHero!]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about coading language
 - ⚡ Fun fact: I love to play Cricket.
 - 😻 Hackacthones runner
+- 💬 Ask me about Java content.
 
 ### Connect with me:
 
