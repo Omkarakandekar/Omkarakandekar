@@ -1,7 +1,7 @@
 
 # Hi there, I'm Omkar kandekar [Omkarakandekar]👋 
 
-## connect with me with this links :-
+## Connect with me with this links :-
 
 ![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
@@ -9,72 +9,32 @@
 
 ## I'm a Student at Lovely Professional University !
 
-- 🔭 Check out my web devloper course: [Become A web developer SuperHero!]
+- 🔭 Check out my Java Assignment questions: [ Become A Data Scientist SuperHero ! ]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about coading language
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Learn more about coading language.
 - ⚡ Fun fact: I love to play Cricket.
-- 😻 Hackacthones runner
+- 😻 Hackacthones runner.
 - 💬 Ask me about Java content.
 
-### Connect with me:
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Praveenmth13&label=Profile%20views&color=129e00&style=plastic" alt="omkarakandekar" /> </p>
 
-![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/omkar-kandekar-2b51421b6/" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" alt="omkar kandekar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omkarkandekar07?hr_r=1" 
+target="blank"><img align="center" src="https://avatar-prod-us-east-2.webexcontent.com/Avtr~V1~1eb65fdf-9643-417f-9974-ad72cae0e10f/V1~81d84586e97ed40071f95739a5710240c28dc271a02dcb4415e9afa46ecba0b1~2ffd87b6784e4c0b860346e4c92feb72?quarantineState=evaluating" alt="@praveen_12011635" height="30" width="40" /></a>
+</p>
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/omkarkandekar07?color=1DA1F2&logo=twitter&style=for-the-badge)
-
-
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
-
----
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-4. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="omkar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omkar&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+- <summary><b>⚡ omkar's Github Stats</b></summary>
+<details open>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarakandekar&theme=synthwave" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarakandekar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ </details>
+ <summary><b> 🔥 Github Streak</b></summary>
+<details open>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarakandekar&hide_border=true" />
 </details>
